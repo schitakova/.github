@@ -1,1 +1,3 @@
-Blockchain Consulting, technical development for Initial Coin Offerings, NFTs and Decentralized Applications, Public and Private Blockchain Development.
+hackBG is a blockchain development and consulting company that provides a wide offering of services such as Blockchain Consulting, Technical Development of Initial Coin Offering, NFTs and Decentralized Applications, Public and Private Blockchains Development.
+
+Backed by a team of industry experts, hackBG has extensive knowledge and a proven track record building on various blockchain networks such as Ethereum, Aeternity, Bitcoin, Hyperledger Sawtooth, Polkadot, Secret Network, and more, showcasing extensive technical expertise across a number of different on-chain environments ranging from the development of blockchains and smart contracts to in-depth testing and on-going technical support.
